@@ -1,0 +1,7 @@
+﻿  Algorithm.cpp
+C:\Users\m\Desktop\study files\大一下\数据结构\CampusNavigation最终版\CampusNavigation\Algorithm.cpp(222,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\m\Desktop\study files\大一下\数据结构\CampusNavigation最终版\CampusNavigation\Algorithm.cpp(228,59): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\m\Desktop\study files\大一下\数据结构\CampusNavigation最终版\CampusNavigation\Algorithm.cpp(228,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\m\Desktop\study files\大一下\数据结构\CampusNavigation最终版\CampusNavigation\Algorithm.cpp(229,40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\m\Desktop\study files\大一下\数据结构\CampusNavigation最终版\CampusNavigation\Algorithm.cpp(229,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  CampusNavigation.vcxproj -> C:\Users\m\Desktop\study files\大一下\数据结构\CampusNavigation最终版\CampusNavigation\x64\Debug\CampusNavigation.exe
